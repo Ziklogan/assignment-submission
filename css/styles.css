@@ -1,0 +1,31 @@
+body {
+    background-color: #e7e7e7;
+    margin: 0;
+}
+hr {
+    width: 50%;
+}
+
+p {
+    padding-top: 3%;
+}
+
+
+/* ID SECTIONS */
+
+#cards {
+    margin: 1% auto;
+}
+
+
+/* CLASS SECTIONS */
+.card-header {
+    text-align: center;
+}
+
+.card {
+    margin: 5% auto 2%;
+}
+.small {
+    margin: 2% auto 2%; 
+}
